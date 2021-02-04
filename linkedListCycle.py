@@ -1,6 +1,6 @@
 """
 File: linkedListCycle.py
-Author: Me
+Author: Abdoulaye Balde
 Email: abdoulayegnbalde@email.com
 Github: https://github.com/abdoulayegk
 Description: Given head, the head of a linked list, determine if the linked
